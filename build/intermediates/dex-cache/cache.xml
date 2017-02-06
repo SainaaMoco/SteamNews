@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_2a44b138e672c98870bd0e6d3ed2f629534d9a31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_52e2a7df451cae7a0b6fd3467c4e05d5723577c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_df42b224f3a3bd63bb534597839e425920aa0c91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.5.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.5.1_5576e00733c8dfe69b160ce7911f9a030534242f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_d713cb8e22b020f001df4f74ef0d44eea470c714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.daimajia.easing-library-1.0.1_a22c6b14786d1109f33a8fcdd58e4c153c4d1148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_fa5ee08c548f2385fc3c2d4c72e031af9f74585c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/library-2.4.0_967e1cae8105d681f66c0722cea5ef615784aa74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_bdc91224312bd6889f282b5dec95d09b8af921a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_34acf3d1e35b9edda88409cbd73891337c2ce757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_dbc08f98c4862ae49fe3cd050a918d0170f79c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_21e17d4d5b772c43a8c231baf14a16376e93424a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_4249c11bce43e0535448a8a3772367630c7736a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/io.realm/android-adapters/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ae57cc4afcb7ed42ee18f3c0a0a87f4ec3e783f">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/io.realm-android-adapters-1.4.0_9173d7b3ae9f0ef3beed1a4b6ecfd6d3d65c4d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/gson-2.7_3e8d6af09672b6cbaa7beca30006b372b7f4d7e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_6399c68fc4e8dfa32bd97b3193e7bc5f954445bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_d709d9798c7717826da053635e51fcae06caf9e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_63c2849fd18bb6b6ec868e2cfae586f18ee93f25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_93bb9dfc9b2d6dba4a1657825c3b714e6df3168d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/2.4.0-SNAPSHOT/5d7833c6d91014663225d90c6fe93c6eb6debc5b/realm-annotations-2.4.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d7833c6d91014663225d90c6fe93c6eb6debc5b">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/realm-annotations-2.4.0-SNAPSHOT_bfb1ad2551b0af508376850fdb2315ccd6548884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_439a5d2ebbd5cac5955d23e39b81eb8e8a623975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_8df5090a41878132a678c39f9ecc62bb4498d81e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_0113c9de29a9e7337bc033f031b31447104b66d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.daimajia.androidanimations/library/1.1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.daimajia.androidanimations-library-1.1.3_53504310e6a8353bd8b0580c486ed258b024ba59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_746568afd750f6b34e0e12df063831df3d6b25cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_e15a4388bf068c3de681a2bd73a7b851d6b9e22d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/io.realm/realm-android-library/2.4.0-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1b9cb9f6d43e7932ea31b8b4189a6801c244135">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/io.realm-realm-android-library-2.4.0-SNAPSHOT_703234bb12ad1584d6ff63bcf73023f1f6fc3b03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_e41f6539bd06f000958e224620aa7a1dc96035a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/okio-1.8.0_f15ed05b32afa3a65daf1dfee8d91a5c477e5410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_3ebdba5d8b608143009feee09e8342a2957cdf9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.1_79ce8aaf85b68b5c24434f05c73504d1354ce162.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.3/baseLibrary-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/baseLibrary-2.2.3_474e89972d5faa940568625dac87a46c353c6a04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_764691b310fe6ab5daadb9c9ebf7bfcf5bb9ffe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/app/build/intermediates/pre-dexed/debug/com.getkeepsafe.relinker-relinker-1.2.2_6172715a395b85a50afde158ee5180895cd66806.jar" />
+    </item>
+
+</items>
