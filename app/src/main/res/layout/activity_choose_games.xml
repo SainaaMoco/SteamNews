@@ -48,13 +48,13 @@
             android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
             android:layout_gravity="bottom|center_horizontal"
-            android:layout_marginBottom="@dimen/item_min_height"
+            android:layout_marginBottom="@dimen/button_margin_bottom"
             android:layout_marginLeft="@dimen/item_min_height"
             android:layout_marginRight="@dimen/item_min_height"
-            android:alpha="0.7"
             android:background="@drawable/shape_round_corner"
             android:gravity="center"
-            android:text="@string/OK" />
+            android:text="@string/OK"
+            android:textColor="@android:color/white" />
 
     </FrameLayout>
 </layout>

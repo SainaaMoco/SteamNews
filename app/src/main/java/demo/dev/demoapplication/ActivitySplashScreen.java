@@ -9,8 +9,9 @@ import android.view.animation.AnimationUtils;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 
-import Model.ModelGame;
 import demo.dev.demoapplication.ChooseGames.ActivityChooseGames;
+import demo.dev.demoapplication.Main.MainActivity;
+import demo.dev.demoapplication.Model.ModelGame;
 import demo.dev.demoapplication.databinding.ActivitySplashScreenBinding;
 import rx.Observable;
 import rx.Subscriber;
@@ -75,7 +76,12 @@ public class ActivitySplashScreen extends ActivityBase {
 
             @Override
             public void onAnimationEnd(Animation animation) {
-                startActivity(new Intent(getApplicationContext(), ActivityChooseGames.class));
+                int selectedCount = realm.where(ModelGame.class).equalTo("isSelected", true).findAll().size();
+                if (selectedCount > 0) {
+                    startActivity(new Intent(getApplicationContext(), MainActivity.class));
+                } else {
+                    startActivity(new Intent(getApplicationContext(), ActivityChooseGames.class));
+                }
                 overridePendingTransition(R.anim.transition_slide_in, R.anim.transition_slide_out);
                 finish();
             }

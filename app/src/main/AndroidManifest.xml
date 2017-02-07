@@ -26,6 +26,7 @@
         <activity
             android:name=".ChooseGames.ActivityChooseGames"
             tools:ignore="InnerclassSeparator" />
+        <activity android:name=".Main.MainActivity"></activity>
     </application>
 
 </manifest>
