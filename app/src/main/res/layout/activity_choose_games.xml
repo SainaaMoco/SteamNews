@@ -36,6 +36,21 @@
 
             </android.support.design.widget.AppBarLayout>
 
+            <android.support.design.widget.AppBarLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <AutoCompleteTextView
+                    android:id="@+id/search_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/item_min_height"
+                    android:background="@android:color/white"
+                    android:hint="@string/hint_search"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp" />
+
+            </android.support.design.widget.AppBarLayout>
+
             <android.support.v7.widget.RecyclerView
                 android:id="@+id/recycler_view_choose_games"
                 android:layout_width="match_parent"
@@ -43,7 +58,7 @@
 
         </LinearLayout>
 
-        <TextView
+        <Button
             android:id="@+id/button_ok"
             android:layout_width="match_parent"
             android:layout_height="@dimen/button_height"
@@ -51,9 +66,9 @@
             android:layout_marginBottom="@dimen/button_margin_bottom"
             android:layout_marginLeft="@dimen/item_min_height"
             android:layout_marginRight="@dimen/item_min_height"
-            android:background="@drawable/shape_round_corner"
+            android:background="@drawable/button_background"
             android:gravity="center"
-            android:text="@string/OK"
+            android:text="@string/next"
             android:textColor="@android:color/white" />
 
     </FrameLayout>

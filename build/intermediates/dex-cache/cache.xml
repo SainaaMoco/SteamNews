@@ -57,15 +57,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
-        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_21e17d4d5b772c43a8c231baf14a16376e93424a.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
         jumboMode="false"
         optimize="true"
@@ -156,15 +147,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/2.4.0-SNAPSHOT/5d7833c6d91014663225d90c6fe93c6eb6debc5b/realm-annotations-2.4.0-SNAPSHOT.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5d7833c6d91014663225d90c6fe93c6eb6debc5b">
-        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/pre-dexed/debug/realm-annotations-2.4.0-SNAPSHOT_bfb1ad2551b0af508376850fdb2315ccd6548884.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -192,6 +174,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/2.3.1-SNAPSHOT/6ac50733251416ec8cf21f7946fa4ea577ca737b/realm-annotations-2.3.1-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ac50733251416ec8cf21f7946fa4ea577ca737b">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/pre-dexed/debug/realm-annotations-2.3.1-SNAPSHOT_28ec9445c9f99f6fefb244a98192dcd941a9fb92.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -216,6 +207,15 @@
         revision="25.0.2"
         sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
         <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/pre-dexed/debug/com.getkeepsafe.relinker-relinker-1.2.2_3605946fbd451e3efc5cbfdf55b2444368fb919d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.3/7fe1a94c1aeb958acc876fe616922cc191f3222c/rxjava-1.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fe1a94c1aeb958acc876fe616922cc191f3222c">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/pre-dexed/debug/rxjava-1.2.3_17bc6ea3546efafc4cc25ceffc5df76613229dcd.jar" />
     </item>
     <item
         is-multidex="false"
@@ -273,6 +273,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/exploded-aar/io.realm/realm-android-library/2.3.1-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6087bd919585af93785f88fa9a1e4be888fcd740">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/pre-dexed/debug/io.realm-realm-android-library-2.3.1-SNAPSHOT_87024493a1c5ffbe8075d121b7fbbc30b50146ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -282,21 +291,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/exploded-aar/io.realm/realm-android-library/2.4.0-SNAPSHOT/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a1b9cb9f6d43e7932ea31b8b4189a6801c244135">
-        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/pre-dexed/debug/io.realm-realm-android-library-2.4.0-SNAPSHOT_8f072a47d660257410e1d64bc9893f7ba315b924.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.3/baseLibrary-2.2.3.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
         <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/pre-dexed/debug/baseLibrary-2.2.3_474e89972d5faa940568625dac87a46c353c6a04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2181c00a0d0a595b6c0679f1411cc91af6b042bb">
+        <dex dex="/Users/admin/Documents/Saina/AndroidProjects/TestProjects/DemoApplication/SteamNews/app/build/intermediates/pre-dexed/debug/com.jakewharton.rxbinding-rxbinding-1.0.0_abf151cc81b85cf4e151d90ad87ca70b53bd246a.jar" />
     </item>
     <item
         is-multidex="false"

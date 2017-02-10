@@ -3,4 +3,6 @@
     <string name="check_network_connection">Интернет холболтоо шалгана уу !</string>
     <string name="checked_games_limited">Илүүг сонгох боломжгүй !</string>
     <string name="OK">OK</string>
+    <string name="hint_search">Хайх…</string>
+    <string name="next">Дараах</string>
 </resources>

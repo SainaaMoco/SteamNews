@@ -2,6 +2,8 @@ package demo.dev.demoapplication;
 
 import android.content.Intent;
 import android.databinding.DataBindingUtil;
+import android.graphics.Color;
+import android.graphics.PorterDuff;
 import android.os.Bundle;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
@@ -25,7 +27,10 @@ public class ActivitySplashScreen extends ActivityBase {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         binding = DataBindingUtil.setContentView(this, R.layout.activity_splash_screen);
-        initRequest();
+        binding.progress.getIndeterminateDrawable()
+                .setColorFilter(Color.BLACK, PorterDuff.Mode.MULTIPLY);
+
+        getGameList();
 
         if (realm.isEmpty()) {
             sendRequest(requestObservable, requestSubscriber);
@@ -34,7 +39,13 @@ public class ActivitySplashScreen extends ActivityBase {
         }
     }
 
-    private void initRequest() {
+    /**
+     * Тоглоомуудын жагсаалт авах хүсэлт явуулаад баазад хадгалах.
+     * Ямар ч хариугүй таг болчихоод байхаар нь 25000 гэж хязгаар тавьсан.
+     */
+
+    //// TODO: 2/10/17 25000 гэсэн хязгаарлалтаа авах.
+    private void getGameList() {
         requestObservable = SteamApplication.getApiService().getGameList();
         requestSubscriber = new Subscriber<JsonObject>() {
             @Override
