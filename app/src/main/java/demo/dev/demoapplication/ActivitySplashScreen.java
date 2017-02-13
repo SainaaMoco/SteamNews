@@ -84,7 +84,7 @@ public class ActivitySplashScreen extends ActivityBase {
             public void onAnimationStart(Animation animation) {
 
             }
-
+            
             @Override
             public void onAnimationEnd(Animation animation) {
                 int selectedCount = realm.where(ModelGame.class).equalTo("isSelected", true).findAll().size();
